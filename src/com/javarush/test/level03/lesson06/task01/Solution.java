@@ -12,7 +12,7 @@ public class Solution
 {
     public static void main(String[] args)
     {
-        //test git
+        //test git commit test
         String mama = "Мама", mila = "Мыла", ramu = "Раму";
         System.out.println(mama+mila+ramu);
         System.out.println(mama+ramu+mila);
